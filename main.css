@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+
+    background: #950a0a;
+    color: white;
+    font-family: 'Gloock', serif;
+    text-align: center;
+}
+
+#question {
+    font-size: 14px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1.4px;
+    margin-bottom: 10px;
+}
+
+#answer {
+    font-size: 32px;
+}
+
+.wrapper{
+    width: 100%;
+    padding: 10px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
