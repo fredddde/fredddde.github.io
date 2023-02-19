@@ -3,13 +3,18 @@ var answers = [
     'Kiss 💋',
     '😳🥵😳😏',
     'Massage 😘',
-    'Watch a movie 😎',
+    'Movie 😎',
     'Play games 🥳',
     'City coffee ☕',
-    'Visit a park 👨‍🚀',
-    'Cook yummy food 👩‍🍳',
+    'Park visit 🌄',
+    'Cook food 👩‍🍳',
     'Marry 💍',
-    'Watch GMM 🔥'
+    'Watch GMM 🔥',
+    'Cozy pub 🍷',
+    'Fancy restaurant 🍔',
+    'Hug 🤗',
+    'Museum 🏰',
+    'Tivoli 🎢'
 ];
 
 var answer = document.getElementById('answer');
