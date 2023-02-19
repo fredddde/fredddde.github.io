@@ -14,7 +14,9 @@ var answers = [
     'Fancy restaurant 🍔',
     'Hug 🤗',
     'Museum 🏰',
-    'Tivoli 🎢'
+    'Tivoli 🎢',
+    'Watch stars 🌠',
+    'Hold hands 👫'
 ];
 
 var answer = document.getElementById('answer');
